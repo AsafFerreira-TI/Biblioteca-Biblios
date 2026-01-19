@@ -1,7 +1,7 @@
 # Biblioteca Biblios
 
 ## Descrição
-  A Biblioteca Biblios é um app tipo TUI (Terminal User Interface), responsável por gerenciar Livros, Leitores e Reservas de uma biblioteca. 
+  A Biblioteca Biblios é um app TUI (Terminal User Interface), responsável por gerenciar Livros, Leitores e Reservas de uma biblioteca. 
   Este App foi construído totalmente em Python, usando conceitos de CRUD (Create, Read, Update, Delete), POO (Programação Orientada a Objetos), e que utiliza as bibliotecas [SQLite3](https://sqlite.org/), [SQLAlchemy](https://www.sqlalchemy.org/) e [Tabulate](https://github.com/astanin/python-tabulate) para gerenciar os dados cadastrados.
 
    Este App foi desenvolvido a fim de auxiliar bibliotecários a ordenar as informações sobre os livros de sua biblioteca, sobre os frequentadores (leitores), além de ser um forte aliado para gerenciar as reservas feitas por leitores. 
