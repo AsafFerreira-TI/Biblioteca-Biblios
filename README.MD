@@ -22,30 +22,26 @@
 
     Para Linux (versões Debian/Ubuntu):
 
-    ```bash 
-    sudo apt install python3-venv ```
-    ```bash 
-    cd caminho/para/a/pasta/principal ```
-    ```bash 
-    python3 -m venv .venv ```
-    ```bash
-    source .venv/bin/activate ```
+    ``` sudo apt install python3-venv ```
+    ``` cd caminho/para/a/pasta/principal ```
+    ``` python3 -m venv .venv ```
+    ``` source .venv/bin/activate ```
     
     Para Windows:
-    ```bash python -m venv nome_do_ambiente_virtual ```
-    ```bash .\nome_do_ambiente_virtual\Scripts\Activate.ps1 ```
+    ``` python -m venv nome_do_ambiente_virtual ```
+    ``` .\nome_do_ambiente_virtual\Scripts\Activate.ps1 ```
 
    4. Instalar as bibliotecas SQLAlchemy e Tabulate:
 
-    ```bash pip install SQLAlchemy ```
+    ``` pip install SQLAlchemy ```
 
-    ```bash pip install tabulate ```
+    ``` pip install tabulate ```
 
 ### Instalação:
 
 Tendo já instalados os pré-requisitos em sua máquina local, basta executar no terminal:
 
-```bash git clone https://github.com/AsafFerreira-TI/Biblioteca-Biblios.git```
+``` git clone https://github.com/AsafFerreira-TI/Biblioteca-Biblios.git```
  
 
 Feito isso, você já tem tudo em mãos para executar este programa em sua máquina!
