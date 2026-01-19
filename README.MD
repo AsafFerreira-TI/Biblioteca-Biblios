@@ -77,7 +77,7 @@ Feito isso, você já tem tudo em mãos para executar este programa em sua máqu
   No Menu "Atualizar", você pode escolher atualizar dados de Livros, Leitores ou Reservas. 
 
     Nota: No menu "Reservas", há um campo chamado "Status", com valor "1", que é criado automaticamente. 
-     Quando uma reserva está inativa (em casos de finalização de prazos), é recomendado atualizar seu Status para 0.
+     Quando uma reserva estiver em desuso (em casos de finalização de prazos), é recomendado atualizar seu Status para 0.
  ### 4 - Excluir
   Em "Excluir", você pode excluir dados de Livros, Leitores ou Reservas desejados.
  ### 5 - Sair
